@@ -1,0 +1,33 @@
+German Shepherd Dog                         2122
+Shepherd                                    1971
+Australian Cattle Dog / Blue Heeler          973
+Border Collie                                817
+Australian Shepherd                          696
+Great Pyrenees                               481
+Cattle Dog                                   444
+Collie                                       236
+Corgi                                        128
+Anatolian Shepherd                           118
+Belgian Shepherd / Malinois                   94
+Dutch Shepherd                                63
+Shetland Sheepdog / Sheltie                   54
+Australian Kelpie                             43
+Cardigan Welsh Corgi                          26
+Schipperke                                    22
+Bernese Mountain Dog                          20
+English Shepherd                              20
+White German Shepherd                         17
+Mountain Dog                                  16
+Pembroke Welsh Corgi                           9
+Smooth Collie                                  8
+Maremma Sheepdog                               4
+Sheep Dog                                      3
+Belgian Shepherd / Sheepdog                    3
+Caucasian Sheepdog / Caucasian Ovtcharka       3
+Entlebucher                                    2
+Norwegian Buhund                               2
+Belgian Shepherd / Tervuren                    2
+Bouvier des Flandres                           1
+Briard                                         1
+Old English Sheepdog                           1
+Belgian Shepherd / Laekenois                   1

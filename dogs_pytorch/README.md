@@ -2,7 +2,7 @@
 In the neroset_model will be using lr.pth and lr_1pth.
 In the neroset_model will be using lr.pth and lr_1pth.
 Base:
-System - Ubuntu20.04.05lts
+System - Ubuntu20.04.06lts
 System - Ubuntu22.04.04lts
 Programming environment - Python3.8.10.2.9
 Programming environment - Python3.9.5.2

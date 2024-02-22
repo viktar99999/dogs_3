@@ -37,7 +37,7 @@ regressor = RandomForestRegressor(n_estimators = 100, max_features = 'log2',
     max_depth = 14, min_samples_split = 61, min_samples_leaf = 122, n_jobs = 4, random_state = 42)
 regressor.fit(X_train, y_train)
 y_pred = regressor.predict(X_test)
-r2(y_test, y_pred)
+mean_squared_log_error(y_test, y_pred)
 print(r2(y_test, y_pred))
 X_train_scaled = scaler.fit_transform(X_train)
 X_test_scaled = scaler.transform(X_test)

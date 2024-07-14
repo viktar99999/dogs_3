@@ -1,5 +1,5 @@
 # dogs_3
-In the neroset_model will be using lr1.pth and lr1_1pth.
+In the neroset_model will be using jupyter_notebook.
 Base:
 System - Ubuntu20.04.06lts
 System - Ubuntu22.04.04lts

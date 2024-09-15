@@ -3,10 +3,12 @@ In the neroset_model will be using jupyter_notebook.
 Base:
 System - Ubuntu20.04.06lts
 System - Ubuntu22.04.04lts
-Programming environment - Python3.8.10.2.9
+System - Ubuntu24.04.01lts
+Programming environment - Python3.8.10.2.11
 Programming environment - Python3.9.5.2
-Programming environment - Python3.10.12
-Programming environment - Python3.11.0-rc1
+Programming environment - Python3.10.12.1
+Programming environment - Python3.11.0-rc2
+Programming environment - Python3.12.1
 Python dependencies from requirements.txt
 Python dependencies from requirements1.txt
 Install:
@@ -15,6 +17,7 @@ sudo apt install python3.8
 sudo apt install python3.9
 sudo apt install python3.10
 sudo apt install python3.11
+sudo apt install python3.12
 Command for install pip:
 sudo apt install python3-pip
 Check version Python:
@@ -123,6 +126,7 @@ command python3.8
 command python3.9
 command python3.10
 command python3.11
+command python3.12
 import anyio
 import argon2 # argon2-cffi
 import argon2 # argon2-cffi-bindings
@@ -228,6 +232,7 @@ command python3.8
 command python3.9
 command python3.10
 command python3.11
+command python3.12
 import numpy
 import numpy as np
 import pandas
